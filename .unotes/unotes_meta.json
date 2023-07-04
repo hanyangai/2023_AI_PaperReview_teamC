@@ -1,0 +1,72 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "dongju": {
+      "name": "dongju",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "heejae": {
+      "name": "heejae",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "hongmok": {
+      "name": "hongmok",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "hyeongjun": {
+      "name": "hyeongjun",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "inho": {
+      "name": "inho",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "jaeho": {
+      "name": "jaeho",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "junhyeok": {
+      "name": "junhyeok",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "nakhoon": {
+      "name": "nakhoon",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "youngmin": {
+      "name": "youngmin",
+      "isOrdered": true,
+      "folders": {
+        "2307-1": {
+          "name": "2307-1",
+          "isOrdered": true,
+          "folders": {},
+          "files": {
+            "Main": 0
+          }
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
